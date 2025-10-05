@@ -91,16 +91,6 @@ EQUIPE (id_equipe, nome_equipe)
 
 ---
 
-## ✅ Entregável
-
-O repositório deve conter:
-
-- `README.md` (este documento)
-- `esquema_conceitual.png` (ou `.pdf` exportado do diagrama)
-- (Opcional) `modelo_logico.sql` com comandos de criação de tabelas  
-
----
-
 ## ✍️ Autor
 
 **Hamilton Junior**  
