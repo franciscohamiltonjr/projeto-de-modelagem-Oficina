@@ -85,7 +85,7 @@ EQUIPE (id_equipe, nome_equipe)
 
 ## 💾 Tecnologias sugeridas (para modelagem)
 
-- Ferramenta de diagrama: **Lucidchart**, **Draw.io**, **BrModelo** ou **Diagrams.net**  
+- Ferramenta de diagrama: **Lucidchart**, **Draw.io** ou **Diagrams.net**  
 - Banco de dados alvo: **MySQL**, **PostgreSQL** ou **SQL Server**  
 - Linguagem de apoio: **SQL** para criação física posterior
 
